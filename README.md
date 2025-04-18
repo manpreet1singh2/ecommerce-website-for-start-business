@@ -1,10 +1,11 @@
 # GlobalMarket - Multi-Market eCommerce Platform
 
-![GlobalMarket]((https://v0-ec-ommerce-website-design-jwv59j9d5.vercel.app/))
+![GlobalMarket Preview](./public/globalmarket-preview.png)
 
 ## 🌐 Live Demo
 
-[View Live Demo]((https://v0-ec-ommerce-website-design-jwv59j9d5.vercel.app/))
+[View Live Demo](https://v0-ec-ommerce-website-design-jwv59j9d5.vercel.app/)
+
 
 ## 📋 Overview
 
